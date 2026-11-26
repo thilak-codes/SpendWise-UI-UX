@@ -23,6 +23,7 @@ Key Features
 Design Screenshots
 
 <img width="390" height="844" alt="Add Expense Screen" src="https://github.com/user-attachments/assets/056c3c52-fa95-4ab3-89c8-9bc06f1bdd06" />
+<img width="390" height="844" alt="Add Income Screen" src="https://github.com/user-attachments/assets/5308c976-f32d-4447-a5a7-c9c00c10f0b3" />
 
 
 
