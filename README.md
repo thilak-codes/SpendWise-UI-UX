@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#  SpendWise
+#  SpendWisely
 
 ### Smart Expense & Budget Management App
 
