@@ -48,53 +48,57 @@ The application focuses on simplifying daily expense tracking, managing monthly 
   <img src="cover.png" width="100%" alt="SpendWise UI UX Cover">
 </div>
 
-## 📱 UI Design Showcase
 
-### 01. Expense Management
+<h2 align="center">📱 Spend Wisely – UI Design Showcase</h2>
 
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Add%20Expense%20Screen.png" width="250" alt="Add Expense">
-</div>
+<h3>01. Authentication & Onboarding</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/login.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Forgot%20Password.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20OTP%20Verification.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Reset%20Password.png" width="220">
+</p>
 
-### 02. Income Management
+<h3>02. Dashboard & Transactions</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Home%20dashboard.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Add%20transaction.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Transaction%20Details.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Search%20%26%20Filter.png" width="220">
+</p>
 
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Add%20Income%20Screen.png" width="250" alt="Add Income">
-</div>
+<h3>03. Expense & Income Management</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Add%20Expense%20Screen.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Add%20Income%20Screen.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Add%20Money%20Screen.png" width="220">
+</p>
 
-### 03. Money Management
+<h3>04. Budget Management</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Budget%20Details.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Budget%20management.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Edit%20Budget.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Monthly%20Spending%20Details.png" width="220">
+</p>
 
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Add%20Money%20Screen.png" width="250" alt="Add Money">
-</div>
+<h3>05. Savings Goals</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Savings%20goals.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Savings%20Goal%20Details.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Savings%20Success%20Screen.png" width="220">
+</p>
 
-### 04. Budget & Financial Planning
+<h3>06. Reports & Analytics</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/SpendWise%20-%20Monthly%20reports.png" width="220">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Annual%20Financial%20Report.png" width="220">
+</p>
 
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Monthly%20Spending%20Details.png" width="250" alt="Monthly Spending">
-</div>
-
-### 05. Savings Goals
-
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Savings%20Goal%20Details.png" width="250" alt="Savings Goal">
-</div>
-
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Savings%20Success%20Screen.png" width="250" alt="Savings Success">
-</div>
-
-### 06. Financial Reports
-
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Annual%20Financial%20Report.png" width="250" alt="Annual Financial Report">
-</div>
-
-### 07. Profile & Settings
-
-<div align="center">
-<img src="Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Profile%20and%20Settings%20Screen.png" width="250" alt="Profile and Settings">
-</div>
+<h3>07. Profile & Settings</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Profile%20and%20Settings%20Screen.png" width="220">
+</p>
 
 ---
 
