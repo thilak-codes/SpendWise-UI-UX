@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#  SpendWisely
+#  Spend Wisely
 
 ### Smart Expense & Budget Management App
 
@@ -44,6 +44,9 @@ The application focuses on simplifying daily expense tracking, managing monthly 
 | Profile | Personal account settings |
 
 ---
+<div align="center">
+  <img src="cover.png" width="100%" alt="SpendWise UI UX Cover">
+</div>
 
 ## 📱 UI Design Showcase
 
