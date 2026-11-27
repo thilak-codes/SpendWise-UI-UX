@@ -121,12 +121,12 @@ https://www.figma.com/design/T53oIXBaWJtQH6EeqVTSrC/expense-tracker---Spend-wise
 
 **Thilak S M**
 
-BTECH. Computer Science & Business Systems
+B.TECH. Computer Science & Business Systems
 
 Interested in UI/UX Design, Software Development and Data Analytics.
 
 <div align="center">
 
-**Designed with 💜 using Figma**
+**Designed using Figma**
 
 </div>
