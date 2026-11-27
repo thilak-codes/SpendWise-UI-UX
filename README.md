@@ -100,6 +100,25 @@ The application focuses on simplifying daily expense tracking, managing monthly 
   <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Profile%20and%20Settings%20Screen.png" width="220">
 </p>
 
+<h2 align="center">📱 Spend Wisely – Screen Showcase</h2>
+
+<h3 align="center">01. Authentication Screens</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/login.png" width="220" alt="Login Screen">
+
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Frame%203.png" width="220" alt="Sign Up Screen">
+</p>
+
+<h3 align="center">02. Financial Reports</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Monthly%20Spending%20Details.png" width="220" alt="Monthly Spending">
+
+  <img src="https://raw.githubusercontent.com/thilak-codes/SpendWise-UI-UX/main/Expense%20Tracker%20Spend%20Wisely%20UI%20UX%20Design/Annual%20Financial%20Report.png" width="220" alt="Annual Financial Report">
+</p>
+
+
 ---
 
 ## 🎨 Design Approach
